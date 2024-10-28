@@ -11,5 +11,5 @@ A collection of interactive sketches and creative coding experiments using p5.js
 
 | Vertex | Gradient |
 | ------------ | ------------ |
-| <img src="[https://github.com/user-attachments/assets/3bac92d0-57f9-4aea-8112-8a10b365990e](https://github.com/user-attachments/assets/f6dabe58-7ec8-4a4f-bbd1-1abd5d74387b)" width="200"> | <img src="https://github.com/user-attachments/assets/9a7dd066-5ac5-45aa-8a88-2592159b9865" width="200"> |
+| <img src="https://github.com/user-attachments/assets/736d37b6-6975-4211-9aa7-5bd3f6459dfc" width="200"> | <img src="https://github.com/user-attachments/assets/9a7dd066-5ac5-45aa-8a88-2592159b9865" width="200"> |
 
