@@ -21,11 +21,11 @@ let shakeAmount = 0;
 let shakeTime = 0;
 
 function setup() {
-  createCanvas(640, 480, WEBGL);
+  createCanvas(640, 640, WEBGL);
 }
 
 function draw() {
-  background(128);
+  background("rgb(61,61,61)");
 
   // Cube movement
   let cubeX = 0;
